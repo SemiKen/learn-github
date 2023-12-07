@@ -1,6 +1,4 @@
 # learn-github
-Beginner GitHub
-
-<h2> Information </h2>
+<h3> Information </h3>
 
 
